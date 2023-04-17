@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Cleaner
+Version: 0.0.3
+Summary: Clean folder - performs the function of sorting files into the specified path.
+Home-page: https://github.com/Gerenzeo
+Author: Artem Ivanina
+Author-email: artem.ivanina1994@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
